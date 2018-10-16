@@ -1,0 +1,15 @@
+2018-09-21 14:28:33 DEBUG [ParseJSON:28] - Response code is: 200
+2018-09-21 14:28:33 DEBUG [ParseJSON:40] - Response code is: 200
+2018-09-21 14:28:33 DEBUG [ParseJSON:49] - Stampa dei primi 2 oggetti nel JSON:
+2018-09-21 14:28:33 DEBUG [ParseJSON:53] - 
+
+2018-09-21 14:28:33 DEBUG [ParseJSON:54] - Nome: Edmund lronside
+2018-09-21 14:28:33 DEBUG [ParseJSON:55] - Città: United Kingdom
+2018-09-21 14:28:33 DEBUG [ParseJSON:56] - Casa: House of Wessex
+2018-09-21 14:28:33 DEBUG [ParseJSON:57] - Anni: 1016
+2018-09-21 14:28:33 DEBUG [ParseJSON:53] - 
+
+2018-09-21 14:28:33 DEBUG [ParseJSON:54] - Nome: Cnut
+2018-09-21 14:28:33 DEBUG [ParseJSON:55] - Città: United Kingdom
+2018-09-21 14:28:33 DEBUG [ParseJSON:56] - Casa: House of Denmark
+2018-09-21 14:28:33 DEBUG [ParseJSON:57] - Anni: 1016-1035
